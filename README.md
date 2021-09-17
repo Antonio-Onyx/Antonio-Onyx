@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gerardo Macias
-- 👀 I’m interested in Machine Leraning and Artificial Inteligence
+- 👀 I’m interested in Machine Learning and Artificial Inteligence
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gerardo_macias317@ciencias.unam.mx or
