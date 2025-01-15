@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerardo Macias
-- 👀 I’m interested in Machine Learning and Artificial Inteligence
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Deep Learning (RNN, CNN, GNN)
+- 🌱 I’m currently learning about LLM's
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gerardo_macias317@ciencias.unam.mx or
                        onyxguardx@gmail.com
