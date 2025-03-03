@@ -4,7 +4,7 @@
 - 📫 How to reach me: gerardo_macias317@ciencias.unam.mx or
                        onyxguardx@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Onyx)](https://github.com/Antonio-Onyx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Onyx&show_icons=true)](https://github.com/Antonio-Onyx/github-readme-stats)
 
 <!---
 Antonio-Onyx/Antonio-Onyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
