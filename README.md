@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gerardo Macias
+- 👋 Hi, I’m Gerardo Macias and I'm a Mathematician undergraduate 
 - 👀 I’m interested in Deep Learning (RNN, CNN, GNN)
 - 🌱 I’m currently learning about LLM's
 - 📫 How to reach me: gerardo_macias317@ciencias.unam.mx or
