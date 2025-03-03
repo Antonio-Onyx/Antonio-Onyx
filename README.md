@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gerardo Macias and I'm a Mathematician undergraduate 👀
--  I’m interested in topics like 
-- 🌱 I’m currently learning about LLM's
+-  I’m currently working in topics that involves Deep Learning like FeedForward Neural Networks, Convolutional Neural Networks, Transformers, etc. Some projects that I have developed are related with Classification Images and I expected so soon wind up a generating text project with a small transformer using transfer learning. Other topics that I'm related are Social Networks.
 - 📫 How to reach me: gerardo_macias317@ciencias.unam.mx or
                        onyxguardx@gmail.com
 
