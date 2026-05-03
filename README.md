@@ -1,6 +1,6 @@
 <!-- Banner opcional: genera uno en https://github.com/rahuldkjain/github-profile-header-generator o usa un SVG propio -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola,%20soy%20[Antonio Macías]&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola,%20soy%20Antonio Macías&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <h3 align="center">Matemático · AI Engineer · Deep Learning & Generative AI</h3>
@@ -52,9 +52,9 @@
 ### 🧬 Repositorios temáticos destacados
 <p align="center">
   <a href="https://github.com/Antonio-Onyx/chatbot_para_analisis_inteligente_operaciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[REPO_LLMS]&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaantonio-Onyx&repo=[REPO_LLMS]&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Antonio-Onyx/mayia-team-hack/MCP-MX">
+  <a href="https://github.com/mayia-team-hack/MCP-MX">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Onyx&repo=https://github.com/mayia-team-hack/MCP-MX&theme=tokyonight&hide_border=true" />
   </a>
 </p>
