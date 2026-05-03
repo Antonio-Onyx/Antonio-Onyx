@@ -34,16 +34,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Onyx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Onyx&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antonio-Onyx&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Onyx&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Antonio-Onyx&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Antonio-Onyx&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
@@ -51,10 +48,11 @@
 ### 🧬 Repositorios temáticos destacados
 <p align="center">
   <a href="https://github.com/Antonio-Onyx/chatbot_para_analisis_inteligente_operaciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Onyx&repo=chatbot_para_analisis_inteligente_operaciones&theme=tokyonight&hide_border=true"/>
+    <img src="https://img.shields.io/badge/chatbot__análisis__operaciones-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/mayia-team-hack/MCP-MX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayia-team-hack&repo=MCP-MX&theme=tokyonight&hide_border=true"/>
+    <img src="https://img.shields.io/badge/MCP--MX-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
 </p>
 
