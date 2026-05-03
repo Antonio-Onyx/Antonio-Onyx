@@ -51,10 +51,10 @@
 
 ### 🧬 Repositorios temáticos destacados
 <p align="center">
-  <a href="https://github.com/Antonio-Onyx/https://github.com/Antonio-Onyx/chatbot_para_analisis_inteligente_operaciones">
+  <a href="https://github.com/Antonio-Onyx/chatbot_para_analisis_inteligente_operaciones">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[REPO_LLMS]&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Antonio-Onyx/https://github.com/mayia-team-hack/MCP-MX">
+  <a href="https://github.com/Antonio-Onyx/mayia-team-hack/MCP-MX">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Onyx&repo=https://github.com/mayia-team-hack/MCP-MX&theme=tokyonight&hide_border=true" />
   </a>
 </p>
