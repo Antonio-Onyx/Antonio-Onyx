@@ -17,20 +17,18 @@
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Biología%20Computacional-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Genómica-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neurociencias-4682B4?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Stack & Lenguajes
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=python,julia,r,cpp,ts,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java&perline=6" />
   <br><br>
   <!-- ML / DL -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
   <br><br>
   <!-- Infra & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,vscode,neovim&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git&perline=6" />
 </p>
 
 ---
