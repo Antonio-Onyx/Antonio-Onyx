@@ -1,6 +1,5 @@
-<!-- Banner opcional: genera uno en https://github.com/rahuldkjain/github-profile-header-generator o usa un SVG propio -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola,%20soy%20Antonio Macías&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola,%20soy%20Antonio%20Macías&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <h3 align="center">Matemático · AI Engineer · Deep Learning & Generative AI</h3>
@@ -22,13 +21,13 @@
 ### 🛠️ Stack & Lenguajes
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java&perline=6"/>
   <br><br>
   <!-- ML / DL -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4"/>
   <br><br>
   <!-- Infra & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git&perline=6"/>
 </p>
 
 ---
@@ -52,10 +51,10 @@
 ### 🧬 Repositorios temáticos destacados
 <p align="center">
   <a href="https://github.com/Antonio-Onyx/chatbot_para_analisis_inteligente_operaciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaantonio-Onyx&repo=[REPO_LLMS]&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Onyx&repo=chatbot_para_analisis_inteligente_operaciones&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/mayia-team-hack/MCP-MX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Onyx&repo=https://github.com/mayia-team-hack/MCP-MX&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayia-team-hack&repo=MCP-MX&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -64,9 +63,9 @@
 ### 🐍 Contribuciones
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/[TU_USUARIO]/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/[TU_USUARIO]/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
