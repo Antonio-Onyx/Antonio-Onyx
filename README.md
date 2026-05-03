@@ -33,14 +33,12 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antonio-Onyx&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Antonio-Onyx&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antonio-Onyx&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antonio-Onyx&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ---
@@ -54,17 +52,6 @@
   <a href="https://github.com/mayia-team-hack/MCP-MX">
     <img src="https://img.shields.io/badge/MCP--MX-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 🐍 Contribuciones
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Antonio-Onyx/Antonio-Onyx/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </p>
 
 ---
