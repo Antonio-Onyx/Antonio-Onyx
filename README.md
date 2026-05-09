@@ -5,7 +5,7 @@
 <h3 align="center">Matemático · AI Engineer · Deep Learning & Generative AI</h3>
 <p align="center">
   <em>Investigando la frontera entre los LLMs, agentes inteligentes y la biología computacional.</em><br>
-  <sub>UNAM · Ciencias Genómicas · Neurociencias Computacionales</sub>
+  <sub>UNAM</sub>
 </p>
 
 ---
