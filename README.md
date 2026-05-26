@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hola,%20soy%20Antonio%20Macías&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-<h3 align="center">Matemático · AI Engineer · Deep Learning & Generative AI</h3>
+<h3 align="center">Matemático · AI Engineer · Deep Learning & Machine Learning</h3>
 <p align="center">
-  <em>Investigando la frontera entre los LLMs, agentes inteligentes y la biología computacional.</em><br>
   <sub>UNAM</sub>
 </p>
 
