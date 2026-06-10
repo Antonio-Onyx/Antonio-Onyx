@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Stack & Lenguajes
