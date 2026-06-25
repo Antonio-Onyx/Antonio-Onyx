@@ -12,13 +12,7 @@
 ## Computer Vision Demo
 
 <p align="center">
-  <video
-    src="https://raw.githubusercontent.com/Antonio-Onyx/imagenes/main/video-recortado2.mp4"
-    width="100%"
-    controls
-    muted
-    loop>
-  </video>
+  <img src="https://raw.githubusercontent.com/Antonio-Onyx/imagenes/main/segmentacion.gif" width="100%">
 </p>
 
 <p align="center">
