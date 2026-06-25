@@ -9,18 +9,6 @@
 
 ---
 
-## Computer Vision Demo
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Antonio-Onyx/imagenes/main/segmentacion.gif" width="100%">
-</p>
-
-<p align="center">
-  <i>Instance Segmentation · Computer Vision · OpenCV · SAM · YOLO</i>
-</p>
-
----
-
 ### 🧠 Áreas de interés
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
